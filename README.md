@@ -79,15 +79,6 @@ Besides building automation solutions, I also enjoy studying artificial intellig
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=david-alves-dev&show_icons=true&theme=merko&border_color=000&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-alves-dev&layout=compact&border_color=000&theme=merko" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Technology should simplify work.  
