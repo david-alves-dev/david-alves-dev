@@ -22,13 +22,13 @@ Besides building automation solutions, I also enjoy studying artificial intellig
 
 <p align="left">
   <a href="https://davidalves.dev/">
-    <img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-DAVIDALVES.DEV-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/david-alves-dev">
-    <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-DAVID--ALVES--DEV-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/davidalves-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=googlescholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-DAVIDALVES--DEV-%230077B5.svg?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   
 </p>
@@ -82,8 +82,8 @@ Besides building automation solutions, I also enjoy studying artificial intellig
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=david-alves-dev&show_icons=true&theme=merko&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-alves-dev&layout=compact&theme=merko" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=david-alves-dev&show_icons=true&theme=merko&border_color=000&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-alves-dev&layout=compact&border_color=000&theme=merko" />
 </p>
 
 ---
